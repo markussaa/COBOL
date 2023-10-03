@@ -45,3 +45,9 @@ Secondly, compile the `main.cbl` with the result from the previous step:
 ## How to execute a program
 
 When the program has been compiled, it can easily be executed in the terminal using the following command: `./hello-world` or `./main`, or what the file name was called (without the `.cbl` ending).
+
+# VS Code extension
+
+I have been using the following extension for IntelliSense, highlighting, snippets, and code browsing for COBOL in VS Code.
+
+https://marketplace.visualstudio.com/items?itemName=bitlang.cobol
